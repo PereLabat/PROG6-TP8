@@ -16,7 +16,11 @@ void aide()
   fprintf(stderr,"q                  :   quitter ce programme\n");
 }
 
+<<<<<<< HEAD
 int main(void)
+=======
+int main()
+>>>>>>> master
 {
   char buffer[TAILLE_BUFFER];
   char commande;
